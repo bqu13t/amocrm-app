@@ -1,3 +1,14 @@
-.red {
-  color: red;
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px;
+}
+
+.lead-list {
+  margin-top: 20px;
+}
+
+.lead-item {
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
 }
