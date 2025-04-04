@@ -1,3 +1,7 @@
+document.getElementById('openAppBtn').addEventListener('click', () => {
+  window.open('https://bqu13t.github.io/amocrm-app/', '_blank');
+});
+
 document.addEventListener('DOMContentLoaded', () => {
   // Инициализация виджета
   AMOCRM.init(async () => {
