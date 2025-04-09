@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/amocrm-app/static/css/main.5943b2bd.css",
-    "main.js": "/amocrm-app/static/js/main.d27113de.js",
+    "main.js": "/amocrm-app/static/js/main.e90701a3.js",
     "static/js/453.c04647da.chunk.js": "/amocrm-app/static/js/453.c04647da.chunk.js",
     "index.html": "/amocrm-app/index.html",
     "main.5943b2bd.css.map": "/amocrm-app/static/css/main.5943b2bd.css.map",
-    "main.d27113de.js.map": "/amocrm-app/static/js/main.d27113de.js.map",
+    "main.e90701a3.js.map": "/amocrm-app/static/js/main.e90701a3.js.map",
     "453.c04647da.chunk.js.map": "/amocrm-app/static/js/453.c04647da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5943b2bd.css",
-    "static/js/main.d27113de.js"
+    "static/js/main.e90701a3.js"
   ]
 }
