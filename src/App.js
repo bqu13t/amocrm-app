@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+import { useState } from 'react';
+import Modal from './components/Modal';
 import './App.css';
 
 function App() {
+  const [isModalOpen, setIsModalOpen] = useState(false);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <h1>Модалка в React</h1>
+      <button onClick={() => setIsModalOpen(true)}>Открыть модалку</button>
+
+      <Modal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)}>
+        <h2>Привет, это модалка!</h2>
+        <p>Нажмите ESC, кликните вне окна или на крестик, чтобы закрыть.</p>
+      </Modal>
     </div>
   );
 }
