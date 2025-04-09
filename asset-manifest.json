@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bqu13t/amocrm-app.git/static/css/main.71a22c66.css",
+    "main.js": "/bqu13t/amocrm-app.git/static/js/main.a5c78291.js",
+    "static/js/453.c04647da.chunk.js": "/bqu13t/amocrm-app.git/static/js/453.c04647da.chunk.js",
+    "index.html": "/bqu13t/amocrm-app.git/index.html",
+    "main.71a22c66.css.map": "/bqu13t/amocrm-app.git/static/css/main.71a22c66.css.map",
+    "main.a5c78291.js.map": "/bqu13t/amocrm-app.git/static/js/main.a5c78291.js.map",
+    "453.c04647da.chunk.js.map": "/bqu13t/amocrm-app.git/static/js/453.c04647da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71a22c66.css",
+    "static/js/main.a5c78291.js"
+  ]
+}
